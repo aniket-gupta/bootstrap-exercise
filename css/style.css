@@ -1,0 +1,12 @@
+ hr {
+	 height: 2px;
+	 background-color: #b9b7b8;
+	 color: #b9b7b8;
+ }
+ 
+ @media screen and (max-width: 300px) {
+	div.disapear {
+		display: none;
+		visibility: hidden;
+	}
+ }
